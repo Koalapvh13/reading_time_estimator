@@ -4,8 +4,13 @@ version = "0.1.0"
 authors = ["Matheus Dias Vieira <matheuspvh13@gmail.com>"]
 edition = "2018"
 description = "Package to estimate the reading time from a text. Medium's like."
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-documentation = "..."
-homepage = "..."
-repository = "..."
+
+documentation = "https://github.com/Koalapvh13/reading_time_estimator"
+homepage = "https://github.com/Koalapvh13/reading_time_estimator#readme"
+repository = "https://github.com/Koalapvh13/reading_time_estimator"
+keywords = ["reading-estimator", "medium"]
+
+categories = ["time", "webdev"]
+
+license = "MIT"
 [dependencies]
