@@ -10,7 +10,7 @@ homepage = "https://github.com/Koalapvh13/reading_time_estimator#readme"
 repository = "https://github.com/Koalapvh13/reading_time_estimator"
 keywords = ["reading-estimator", "medium"]
 
-categories = ["time", "webdev"]
+categories = ["development-tools", "development-tools::build-utils", "web-programming"]
 
 license = "MIT"
 [dependencies]
